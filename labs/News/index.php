@@ -1,0 +1,2 @@
+<?//The news index page
+?>
