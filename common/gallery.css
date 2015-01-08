@@ -1,0 +1,19 @@
+/* This is the stylesheet styles the photo gallery. */
+/* This is W3C Validated CSS3! */
+/* (c) 2012 Lowell Robotics*/
+
+#photo-gallery {
+	position: absolute;
+	left: 5px;
+	right: 5px;
+	top: 0px;
+	bottom: 0px;
+}
+
+#photo-table {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+}

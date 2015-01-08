@@ -1,0 +1,37 @@
+Change Log for lowellrobotics.org
+---------------------------------
+
+Format:
+<name>
+<date>
+<changes>
+
+Caleb Pratt
+15 1 2011
+- Zach's Website uploaded to update dir (new.lowellrobotics.org)
+- Project complete date set to 31 1 2011
+- New index.php file added to main directory
+  - launching point for templating
+  - EDIT: added to php directory
+
+Caleb Pratt
+16 1 2011
+- Backup made
+- New folder schema set up
+- Created 'dust' a folder to be deleted when the contents are sorted through
+- index.php has been created
+- bin folder w/ head.php and foot.php added
+- templating now online
+
+Zachary DeBruine
+17 1 2011
+- index.php updated.  Percents were converted to pixels to allow for better small-resolution browsing.
+- head.php and foot.php were updated.
+- but nothing is working?  (6:15 PM)
+
+Caleb Pratt
+8 1 2012
+- adjustments to the logout parameters of the forum required playing around w/ phpBB's code, in case of future updates:
+	- open lowellrobotics.org/forum/ucp.php
+	- adjust ~line 95 "meta_refresh(3, append_sid("{$phpbb_root_path}index.$phpEx"));"
+	- it should be changed to "meta_refresh(1, "/"); // Redirects to site index on logout"

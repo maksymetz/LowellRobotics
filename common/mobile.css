@@ -1,0 +1,360 @@
+/* This is the stylesheet styles the entire Lowell Robotics website.  Defined here are the universal styles applied to common elements, which can be overriden by inline styles when the element is declared inside the HTML document.  Styling that is unique to a page is included in the header of that page, and not here. */
+/* This is W3C Validated CSS3! */
+/* Please note that the W3C validator won't parse border-radius. It is, as of 2 June 2011, valid CSS3.*/
+
+/* Nix the defaults*/
+a img,:link img,:visited img {border:none;} /* gets rid of the annoying boxes around images */
+:link,:visited {text-decoration:none;} /* no more link visited purple colors */
+ul,ol,dl {list-style:none;} /* easy for menus, lists won't be used fequently */
+h1,h2,h3,h4,h5,h6,pre,code {font-size:1em; font-weight:normal;} /* allows for easy definitions later */
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input,dl,dt,dd {margin:0; padding:0;} 
+strong {font-weight:bold;}
+
+
+body {
+  background-color:#101010;
+  color:#000000;
+  font-family:times,serif;
+  font-size:1.1em;
+  color:#200000;
+  margin:0px;
+  padding:5px;
+  text-align:justify;
+  line-height:1.2em;
+}
+
+/* PAGE DIVISIONS **/
+
+#header {
+  background:#990000;
+  height:180px;
+  width:985px;
+  border-top:#b00000 3px solid;
+  border-right:#b00000 3px solid;
+  border-left:#b00000 3px solid;
+  border-bottom:#000000 0px solid;
+  border-top-right-radius:15px;
+  border-top-left-radius:15px;
+  padding:0.5em;
+}
+
+#navbar {
+  background:#252525;
+  height:30px;
+  width:985px;
+  border-top:#000000 2px solid;
+  border-right:#b00000 3px solid;
+  border-left:#b00000 3px solid;
+  border-bottom:#000000 2px solid;
+  padding-right:0.5em;
+  padding-left:0.5em;
+}
+
+#pagebody {
+  background:#e9e9e9;
+  width:985px;
+  border-top:#b00000 0px solid;
+  border-bottom:#000000 0px solid;
+  border-left:#b00000 3px solid;
+  border-right:#b00000 3px solid;
+  padding:0.5em;
+}
+
+#footer {
+  background:#990000;
+  width:985px;
+  border-top:#000000 3px solid;
+  border-bottom:#b00000 3px solid;
+  border-right:#b00000 3px solid;
+  border-left:#b00000 3px solid;
+  border-bottom-right-radius:15px;
+  border-bottom-left-radius:15px;
+  padding:0.1em 0.5em 0.3em 0.5em;
+  text-align:center;
+}
+
+/* Additional Divs */
+#center {
+	position:absolute;
+	top:0px;
+	left: 50%;
+	margin-left: -504px;
+	width:985px;
+}
+
+/* BASIC HEADERS, FONTS, and LINKS */
+h1 {
+  font-family:georgia, serif;
+  font-size:2.2em;
+  color:#300505;
+  font-variant:small-caps;
+  text-align:left;
+  margin:0px;
+  padding:0.3em 0.3em 0.6em 0.1em;
+}
+
+h2 {
+  font-family:"copperplate gothic",serif;
+  font-size:1.2em;
+  color:#ffffff;
+  text-align:left;
+  margin:0px;
+  padding:5px;
+}
+
+h3 {
+  font-family:"copperplate gothic",serif;
+  font-size:1em;
+  color:#ffffff;
+  text-align:left;
+  margin:0px;
+  padding:5px;
+  max-width:100%;
+  background:#252525;
+}
+
+h3.sidebar {
+	max-width:25%;
+}
+
+h3.spon {
+	color:#252525;
+	background:none;
+}
+h2.spon {
+	color:#000;
+	font-size: 20pt;
+}
+
+a:link {
+  color:#990000;
+  text-decoration:none;
+  background-color:#e9e9e9;
+}
+
+a:visited {
+color:#c00000;
+text-decoration:none;
+background-color:#e9e9e9;
+}
+
+a:hover {
+  color:#f00000;
+  text-decoration:underline;
+  background-color:#e9e9e9;
+}
+
+a:active {
+  color:#ff0000;
+  text-decoration:underline;
+  background-color:#e9e9e9;
+}
+
+span {
+  color:#000000;
+  font-family:times,serif;
+  font-size:1.1em;
+  color:#200000;
+  margin:0px;
+  padding:5px;
+  text-align:justify;
+  line-height:1.2em;
+}
+
+.titlebanner {
+  width:98%;
+  padding:0.5em;
+  margin:0.5em 0em 0.5em 0em;
+  background:#252525;
+}
+
+.minititlebanner {
+  width:95%;
+  padding:0.2em;
+  margin:0.2em 0em 0.2em 0em;
+  background:#252525;
+}
+
+a.FIRSTLOGO {
+	background:#990000;
+}
+
+.newspic {
+	margin:5px;
+	border:#000000 1px solid;
+	float:right;
+	max-width:400px;
+	max-height:300px;
+}
+
+.newsvid{
+	margin:5px;
+	border:#000000 1px solid;
+	float:right;
+}
+
+.indexpic {
+	margin:5px;
+	border:#000000 1px solid;
+	float:left;
+}
+
+/* BASIC HORIZONTAL RULES and LISTS */
+hr {
+  color:#d01010;
+  height:1px;
+}
+
+/* NAVIGATION BAR STYLING */
+.navbar_item {
+  width:163px;
+  padding:0px;
+  margin:0px;
+  border-right:#404040 2px solid;
+}
+
+.navbar_item_last {
+  width:163px;
+  padding:0px;
+  margin:0px;
+}
+
+#dropdown {
+  margin:0px;
+  text-align:center;
+  width:100%;
+  padding:0px;
+}
+
+#dropdown td {
+  margin:0px;
+  padding:0px;
+  text-align:left;
+  width:163px;
+}
+
+#dropdown td a {
+  display:block;
+  margin:0px;
+  background: #252525;
+  text-decoration:none;
+  font-family:copperplate gothic;
+  font-size:1em;
+   font-weight:bold;
+  color:#f0f0f0;
+  text-align:center;
+  padding-top:.2em;
+  padding-bottom:.2em;
+  padding-right:0em;
+  padding-left:0em;
+  width:100%;
+}
+
+#dropdown td a:hover {
+  background: #555555;
+}
+
+#dropdown div {
+  position:absolute;
+  visibility:hidden;
+  margin:0px;
+  padding:0px;
+  border-right:1px solid #000000;
+  border-left:1px solid #000000;
+  border-bottom:1px solid #000000;
+  width:165px;
+  color:#f0f0f0;
+  background:#252525;
+}
+
+#dropdown div a {
+  position: relative;
+  display: block;
+  margin:0px;
+  padding-top:3px;
+  padding-bottom:3px;
+  padding-right:5px;
+  padding-left:5px;
+  width:auto;
+  text-align: left;
+  text-decoration: none;
+  background: #252525;
+  color:#f0f0f0;
+  font-family:arial;
+  font-size:11px;
+}
+
+#dropdown div a:hover {
+  background:#555555;
+}
+
+/* FOOTER-RELATED STYLING */
+
+#footer table {
+width:100%;
+margin-right:auto;
+margin-left:auto;
+}
+
+#footer td {
+  width:16%;
+  padding:0px;
+  margin:0px;
+}
+
+#footer p {
+font-family:copperplate gothic;
+font-size:14px;
+color:#f0f0f0;
+margin:0px;
+padding:0px;
+text-decoration:none;
+text-align:center;
+background-color:#990000;
+}
+
+#footer hr {
+  color:#ffffff;
+}
+
+#footer a {
+  color:#ffffff;
+  background-color:#990000;
+}
+
+.eventa {
+	padding:0px;
+	margin:0px;
+	font-size:0.8em;
+	font-family:arial;
+	background:#dce6f2;
+	width:200px;
+}
+
+.eventb {
+	padding:0px;
+	margin:0px;
+	font-size:0.8em;
+	font-family:arial;
+	background:#c2d3e8;
+	width:200px;
+}
+
+.quickLinks {
+	border:#990000 2px;
+}
+
+.xlink {
+    text-align:center;
+    font-family:times;
+    font-size:1em;
+    color:#353535;
+    width:204px;
+    height:180px;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+}
+#code p {
+	font-size:1.0em;
+}
