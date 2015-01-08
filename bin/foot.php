@@ -18,7 +18,7 @@ echo ('
 <br/>
 <a href="http://www.wbtooling.com/"><img src="/common/whitesbridge.jpg" style="max-width:187px;" alt="White\'s Bridge Tooling" /></a>
 <br/>
-<a href="http://www.dairydiscovery.com/"><img src="/pages/about/sponsors/img/Dairy-Discovery.png" style="max-width:187px;" alt="Swiss Lane Farms" /></a>
+<a href="http://www.lowellschools.com/"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:187px;" alt="Swiss Lane Farms" /></a>
 <br/>
 <a href="http://www.hooperprinting.com/"><img src="/pages/about/sponsors/img/HooperLogo.png" style="max-width:187px;" alt="Hooper Printing" /></a>
 <br/>
