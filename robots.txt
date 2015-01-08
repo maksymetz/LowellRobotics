@@ -1,0 +1,18 @@
+Sitemap:http://lowellrobotics.org/sitemap.xml
+User-agent: *
+Disallow: /about/
+Disallow: /contact/
+Disallow: /doc_help/
+Disallow: /examples/
+Disallow: /forum/
+Disallow: /images/
+Disallow: /indepth/
+Disallow: /Member_Tools/
+Disallow: /members/
+Disallow: /new/
+Disallow: /photo_gallery/
+Disallow: /phpMyAdmin/
+Disallow: /styles/
+Disallow: /tmp/
+Disallow: /tmpLogo/
+Disallow: /webmasters/
