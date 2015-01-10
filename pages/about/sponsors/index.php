@@ -36,7 +36,11 @@ require_once('/bin/head.php');
 <h3 class "spon">Individual Doners</h3>
 Deb Ellinger
 <br>
-
+<h3 class "spon">Trombly Chiropractic</h3>
+<p>Located in lowell, MI</p>
+<br>
+<h3 class "spon">Family Dentistry of Lowell</h3>
+<p>Located in lowell, MI</p>
 
 <?php
 require_once('/bin/foot.php');
