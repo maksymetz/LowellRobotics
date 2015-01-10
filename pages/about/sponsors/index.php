@@ -31,16 +31,18 @@ require_once('/bin/head.php');
 <p>Solidworks Corp. offers complete 3D software tools that let you create, simulate, publish, and manage your data.</p>
 <br>
 <h3 class "spon">Orchard Hills Golf Course</h3>
-<p>Located in Shelbyville, MI.</p>
+<p>Shelbyville, MI.</p>
+<br>
+<h3 class "spon">Trombly Chiropractic</h3>
+<p>Lowell, MI</p>
+<br>
+<h3 class "spon">Family Dentistry of Lowell</h3>
+<p>Lowell, MI</p>
 <br>
 <h3 class "spon">Individual Doners</h3>
 Deb Ellinger
 <br>
-<h3 class "spon">Trombly Chiropractic</h3>
-<p>Located in lowell, MI</p>
-<br>
-<h3 class "spon">Family Dentistry of Lowell</h3>
-<p>Located in lowell, MI</p>
+
 
 <?php
 require_once('/bin/foot.php');
