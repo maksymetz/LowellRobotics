@@ -17,6 +17,7 @@ require_once('/bin/head.php');
 <br>
 <h3 class="spon">Enworks</h3>
 <p>A company that makes office furniture for offices.</p>
+<br>
 <h3 class="spon">Perceptive Concepts</h3>
 <p>Perceptive Concepts designs mechanical machinery like conveyors, product elevators, filling equipment, palletizing systems (robotic and traditional), robotic welding and / or assembly systems and assembly fixtures.</p>
 <br>
@@ -24,12 +25,15 @@ require_once('/bin/head.php');
 <p>This hardware store donates tools and offers us discounts.</p>
 <br>
 <h3 class"spon">Metric Manufacturing</h3>
-<p>They do CAD design and manufacturing./p>
+<p>They do CAD design and manufacturing.</p>
 <br>
-<h3 class"spon"<doners</h3>
-<p>Deb Ellinger</P>
+<h3 class"spon">Orchard Hills Golf Course</h3>
+<p> Located in Shelbyville, MI.</p>
 <br>
-<h3 class"spon"<Orchard Hills Golf Course</h3>
+<h3 class"spon">Individual Doners</h3>
+Deb Ellinger
+<br>
+<h3 class"spon">Orchard Hills Golf Course</h3>
 <p> Located in Shelbyville, MI.</p>
 
 <?php
