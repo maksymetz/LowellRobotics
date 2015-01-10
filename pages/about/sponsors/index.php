@@ -4,7 +4,7 @@ require_once('/bin/head.php');
 ?>
 
 <!-- **** MAIN AREA **** -->
-<h2 class "spon">Our Sponsors</h2>
+<h1 class "spon">Our Sponsors</h1>
 <br>
 <h3 class "spon">Lowell Community Fund</h3>
 <p>The Lowell Area Community Fund gives grants to organizations that assist in fulfilling its mission to assure community cooperation and participation that supports a healthy, dynamic community.</p>
