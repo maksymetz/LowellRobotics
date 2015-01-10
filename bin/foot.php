@@ -20,11 +20,13 @@ echo ('
 <br/>
 <a href="http://www.lowellschools.com/"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:200px;" alt="Lowell Area Schools" /></a>
 <br/>
-<a href="http://www.hooperprinting.com/"><img src="/pages/about/sponsors/img/HooperLogo.png" style="max-width:187px;" alt="Hooper Printing" /></a>
+<a href="http://www.acehardware.com/home/index.jsp"><img src="/pages/about/sponsors/img/Ace-_Hardware_logo.jpg" style="max-width:187px;" alt="Ace Hardware" /></a>
 <br/>
-<a href="http://www.vanderzielmachinery.com/"><img src="/pages/about/sponsors/img/Banner-Logo.png" style="max-width:187px;" alt="VanderZiel Machinery" /></a>
+<a href="http://enwork.com/"><img src="/pages/about/sponsors/img/enwork-logo.jpg" style="max-width:187px;" alt="Enwork" /></a>
+<br/>
+<a href="http://metricmfg.com/"><img src="/pages/about/sponsors/img/Metric Manufacturing.png" style="max-width:187px;" alt="Metric Manufacturing" /></a>
 </div>
-<br />
+<br/>
 
 
 
