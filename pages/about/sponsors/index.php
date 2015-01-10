@@ -27,6 +27,9 @@ require_once('/bin/head.php');
 <h3 class "spon">Metric Manufacturing</h3>
 <p>They do CAD design and manufacturing.</p>
 <br>
+<h3 class "spon">Solidworks</h3>
+<p>Solidworks Corp. offers complete 3D software tools that let you create, simulate, publish, and manage your data.</p>
+<br>
 <h3 class "spon">Orchard Hills Golf Course</h3>
 <p>Located in Shelbyville, MI.</p>
 <br>
