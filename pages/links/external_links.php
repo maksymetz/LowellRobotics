@@ -17,8 +17,8 @@ require_once('/bin/head.php');
       <a href="http://www.firstinmichigan.us">www.firstinmichigan.us</a>
     </td>
     <td class="xlink">
-      <a href="http://www.thebluealliance.net"><img src="/common/ql_bluealliance.png" alt="The Blue Alliance" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
-      <a href="http://www.thebluealliance.net">www.thebluealliance.net</a>
+      <a href="http://www.thebluealliance.com"><img src="/common/ql_bluealliance.png" alt="The Blue Alliance" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
+      <a href="http://www.thebluealliance.com">www.thebluealliance.com</a>
     </td>
     <td class="xlink">
       <a href="http://www.chiefdelphi.com"><img src="/common/ql_chiefdelphi.png" alt="Chief Delphi" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
