@@ -37,8 +37,8 @@ You’ve found your way to the website of FIRST robotics Team #3234, otherwise k
       <a href="http://www.firstinmichigan.us">FIRST in Michigan</a>
     </td>
     <td class="xlink">
-      <a href="http://www.thebluealliance.net"><img src="/bin/pic.php?src=/common/ql_bluealliance.png&amp;width=140&amp;height=140" alt="The Blue Alliance" class="quickLinks"/></a><br/>
-      <a href="http://www.thebluealliance.net">The Blue Alliance</a>
+      <a href="http://www.thebluealliance.com"><img src="/bin/pic.php?src=/common/ql_bluealliance.png&amp;width=140&amp;height=140" alt="The Blue Alliance" class="quickLinks"/></a><br/>
+      <a href="http://www.thebluealliance.com">The Blue Alliance</a>
     </td>
     <td class="xlink">
       <a href="http://www.chiefdelphi.com"><img src="/bin/pic.php?src=/common/ql_chiefdelphi.png&amp;width=140&amp;height=140" alt="Chief Delphi" class="quickLinks"/></a><br/>
