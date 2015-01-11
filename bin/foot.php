@@ -25,6 +25,9 @@ echo ('
 <a href="http://enwork.com/"><img src="/pages/about/sponsors/img/enwork-logo.jpg" style="max-width:187px;" alt="Enwork" /></a>
 <br/>
 <a href="http://metricmfg.com/"><img src="/pages/about/sponsors/img/Metric Manufacturing.png" style="max-width:187px;" alt="Metric Manufacturing" /></a>
+<br/>
+<a href="http://www.solidworks.com/"><img src="/pages/about/sponsors/img/newredtranslogo.png" style="max-width:187px;" alt="Solidworks" /></a>
+
 </div>
 <br/>
 
