@@ -6,7 +6,7 @@ require_once('/bin/head.php');
 <div class="titlebanner">
 <h2 id="newstitle">2015 Season</h2>
 </div>
-<iframe src="http://lowellrobotics2015.blogspot.com/" width="700" height="1000"></iframe>
+<iframe src="http://lowellrobotics2015.blogspot.com/" width="750" height="1000"></iframe>
 
 
 
