@@ -10,7 +10,7 @@ require_once('bin/head.php');
 You’ve found your way to the website of FIRST robotics Team #3234, otherwise known as the Lowell Robotics Team! We participate in the annual FIRST Robotics Competition (FRC), and a member of the FIRST (For Inspiration and Recognition of Science and Technology) organization. Hailing from Lowell, Michigan, we are always looking for new members, and any interested are welcome to drop in on a meeting. Meetings take place Mondays at the Lowell Middle School from six to eight pm every week. For more information, explore the website, which is entirely student-designed and maintained.
 
 <br />
-
+<a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a>
 <hr />
 
 
