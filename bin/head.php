@@ -114,8 +114,9 @@ echo('
 			</div>
 		</td>
     <td style="border-right:#000000 1px solid;">
-		<a href="/pages/news/2014/" onmouseover="mopen(\'m5\')" onmouseout="mclosetime()">Team News</a>
+		<a href="/pages/news/2015/" onmouseover="mopen(\'m5\')" onmouseout="mclosetime()">Team News</a>
 			<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+				<a href="/pages/news/2015/">2015 Season</a>
 				<a href="/pages/news/2014/">2014 Season</a>
 				<a href="/pages/news/2013/">2013 Season</a>
 				<a href="/pages/news/2012/">2012 Season</a>
