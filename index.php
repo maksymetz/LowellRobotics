@@ -21,7 +21,7 @@ You’ve found your way to the website of FIRST robotics Team #3234, otherwise k
 <p><br>Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
 <br>300 High Street
 <br>Lowell, MI 49331</br>
-<a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a></p>
+<a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a></p>
 
 <div class="titlebanner">
 <h2 id="newstitle">First Competition at Kentwood</h2>
