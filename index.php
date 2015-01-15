@@ -10,18 +10,31 @@ require_once('bin/head.php');
 You’ve found your way to the website of FIRST robotics Team #3234, otherwise known as the Lowell Robotics Team! We participate in the annual FIRST Robotics Competition (FRC), and a member of the FIRST (For Inspiration and Recognition of Science and Technology) organization. Hailing from Lowell, Michigan, we are always looking for new members, and any interested are welcome to drop in on a meeting. Meetings take place Mondays at the Lowell Middle School from six to eight pm every week. For more information, explore the website, which is entirely student-designed and maintained.
 
 <br />
-<a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a>
+
 <hr />
 
 
 <div class="titlebanner">
-<h2 id="newstitle">Kickoff: Eberhard Center GVSU, Saturday, January 3rd, 2015</h2>
+<h2 id="newstitle">Contact Us</h2>
 </div>
 
-<!--<img src="/pages/news/2012/Pictures/robot4.jpg" class="newspic" alt="Build" />-->
+<p><br>Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
+<br>300 High Street
+<br>Lowell, MI 49331</br>
+<a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a></p>
 
+<div class="titlebanner">
+<h2 id="newstitle">First Competition at Kentwood</h2>
+</div>
 
-<p>The FRC Kickoff marks the beginning of the design and build season. Teams have the opportunity to meet at "local" Kickoffs to compare notes, get ideas, make friends, find mentoring teams, learn the game, pick up the Kit of Parts, and get geared up for the exciting competition season.</p>
+<p>We are currently preparing for our first event at East Kentwood High School on March 6th and 7th. 
+<br>The address is: </br>
+<br>East Kentwood High School 
+<br>6230 Kalamazoo
+<br>Kentwood, MI  49508.</br>
+<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf">[here]</a>.</br> 
+<br>We hope to see you there!</br></p>
+
 
 <div class="titlebanner">
 <h2>Quick Links</h2>
