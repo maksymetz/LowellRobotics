@@ -15,8 +15,9 @@ $(document).ready(function(){
 });	
 </script>
 
-<br />
-<br />
+<br>
+<p>"Build Season" -- two little words that demand lots of sweat and blood. Starting with Kickoff, build season is six weeks for us to brainstorm, prototype, design, construction, program and troubleshoot our robot. When time is up, the robot is bagged. We then eagerly wait for the competitions. This gallery consists of our favorite moments from our ongoing and past seasons. We learn time management, solving seemingly infinite complications, as well as how to work diligently, with gracious professionalism and enthusiasm. At the end of the build season we get to enjoy competitions.  After all of it, relish in our success and wait for the next season.</p>
+</br>
 
 <?php $_REQUEST['fullalbum']=1; include 'foliogallery.php'; ?>
 
