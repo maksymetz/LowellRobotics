@@ -125,12 +125,7 @@ echo('
 			</div>
     </td>
 	<td style="border-right:#000000 1px solid;">
-		<a href="/pages/photo_gallery/pg_2014_build.php" onmouseover="mopen(\'m6\')" onmouseout="mclosetime()">Photo Gallery</a>
-			<div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
-				<a href="/pages/photo_gallery/pg_2014_build.php">2014 Photos</a>
-				<a href="/pages/photo_gallery/pg_2013_build.php">2013 Photos</a>
-				<a href="/pages/photo_gallery/pg_2010_build.php">2010 Photos</a>
-			</div>
+		<a href="/pages/photogallery/" onmouseover="mopen(\'m6\')" onmouseout="mclosetime()">PhotoGallery</a>
     </td>
 	
   

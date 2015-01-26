@@ -26,10 +26,10 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 <h2 id="newstitle">Contact Us</h2>
 </div>
 
-<p><br>Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
+Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
 <br>300 High Street
 <br>Lowell, MI 49331</br>
-<a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a></p>
+<a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a>
 
 <div class="titlebanner">
 <h2 id="newstitle">First Competition at Kentwood</h2>
@@ -40,8 +40,7 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 <br>East Kentwood High School 
 <br>6230 Kalamazoo
 <br>Kentwood, MI  49508.</br>
-<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf">[here]</a>.</br> 
-<br>We hope to see you there!</br></p>
+<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf">[here]</a>.  We hope to see you there!</br></p>
 
 
 <div class="titlebanner">
