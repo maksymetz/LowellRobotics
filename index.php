@@ -18,9 +18,9 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 </div>
 
 <p>Check out our new:
-<li><a href="https://www.youtube.com/channel/UCA9qOPuNsPEPL-eVTb93nig">Youtube Channel</a></li>
-<li><a href="http://lowellrobotics.org/pages/photogallery/">Photo Gallery (Work in progress)</a></li>
-<li><a href="http://lowellrobotics2015.blogspot.com/">Blog</a></li></p>
+<li><a href="https://www.youtube.com/channel/UCA9qOPuNsPEPL-eVTb93nig" target="_blank">Youtube Channel</a></li>
+<li><a href="http://lowellrobotics.org/pages/photogallery/" target="_blank">Photo Gallery (Work in progress)</a></li>
+<li><a href="http://lowellrobotics2015.blogspot.com/" target="_blank">Blog</a></li></p>
 
 <div class="titlebanner">
 <h2 id="newstitle">Contact Us</h2>
