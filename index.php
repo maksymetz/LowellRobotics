@@ -40,7 +40,7 @@ Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
 <br>East Kentwood High School 
 <br>6230 Kalamazoo
 <br>Kentwood, MI  49508.</br>
-<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf">[here]</a>.  We hope to see you there!</br></p>
+<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf" target="_blank">[here]</a>.  We hope to see you there!</br></p>
 
 
 <div class="titlebanner">
@@ -49,20 +49,20 @@ Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
 <table>
   <tr>
     <td class="xlink">
-      <a href="http://www.usfirst.org"><img src="/bin/pic.php?src=/common/ql_firstlogo.png&amp;width=140&amp;height=140" alt="FIRST" class="quickLinks"/></a><br/>
-      <a href="http://www.usfirst.org">FIRST</a>
+      <a href="http://www.usfirst.org" target="_blank"><img src="/bin/pic.php?src=/common/ql_firstlogo.png&amp;width=140&amp;height=140" alt="FIRST" class="quickLinks"/></a><br/>
+      <a href="http://www.usfirst.org" target="_blank">FIRST</a>
     </td>
     <td class="xlink">
-      <a href="http://www.firstinmichigan.us"><img src="/bin/pic.php?src=/common/ql_firstinmichigan.png&amp;width=140&amp;height=140" alt="First in Michigan" class="quickLinks"/></a><br/>
-      <a href="http://www.firstinmichigan.us">FIRST in Michigan</a>
+      <a href="http://www.firstinmichigan.us" target="_blank"><img src="/bin/pic.php?src=/common/ql_firstinmichigan.png&amp;width=140&amp;height=140" alt="First in Michigan" class="quickLinks"/></a><br/>
+      <a href="http://www.firstinmichigan.us" target="_blank">FIRST in Michigan</a>
     </td>
     <td class="xlink">
-      <a href="http://www.thebluealliance.com"><img src="/bin/pic.php?src=/common/ql_bluealliance.png&amp;width=140&amp;height=140" alt="The Blue Alliance" class="quickLinks"/></a><br/>
-      <a href="http://www.thebluealliance.com">The Blue Alliance</a>
+      <a href="http://www.thebluealliance.com" target="_blank"><img src="/bin/pic.php?src=/common/ql_bluealliance.png&amp;width=140&amp;height=140" alt="The Blue Alliance" class="quickLinks"/></a><br/>
+      <a href="http://www.thebluealliance.com" target="_blank">The Blue Alliance</a>
     </td>
     <td class="xlink">
-      <a href="http://www.chiefdelphi.com"><img src="/bin/pic.php?src=/common/ql_chiefdelphi.png&amp;width=140&amp;height=140" alt="Chief Delphi" class="quickLinks"/></a><br/>
-      <a href="http://www.chiefdelphi.com">Chief Delphi</a>
+      <a href="http://www.chiefdelphi.com" target="_blank"><img src="/bin/pic.php?src=/common/ql_chiefdelphi.png&amp;width=140&amp;height=140" alt="Chief Delphi" class="quickLinks"/></a><br/>
+      <a href="http://www.chiefdelphi.com" target="_blank">Chief Delphi</a>
     </td>
   </tr>
 </table>
