@@ -88,7 +88,7 @@ echo('
   <tr>
     <td style="text-align:left;"><img src="/common/banner.png" style="height:180px; width:700px;" alt="Lowell Robotics" /></td>
 	<td style="min-width:80px;">&nbsp;&nbsp;</td>
-    <td style="text-align:right;"><a href="http://www.usfirst.org/" class="FIRSTLOGO"><img src="/common/FIRST.png" style="width:165px;height:170px;" alt="FIRST Logo" /></a></td>
+    <td style="text-align:right;"><a href="http://www.usfirst.org/" target="_blank" class="FIRSTLOGO"><img src="/common/FIRST.png" style="width:165px;height:170px;" alt="FIRST Logo" /></a></td>
   </tr>
 </table>
 </div><!-- ***** NAVBAR ***** --><div id="navbar">
