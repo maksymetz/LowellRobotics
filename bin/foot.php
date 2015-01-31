@@ -14,19 +14,19 @@ echo ('
 <div style="width:200px;margin-right:auto;margin-top:10px;">
 <h3>Signature Sponsors</h3>
 <br/>
-<a href="http://www.grfoundation.org/lowell"><img src="/img/sponsors/lowellCommFund.gif" style="max-width:187px;" alt="Lowell Community Fund" /></a>
+<a href="http://www.grfoundation.org/lowell" target="_blank"><img src="/img/sponsors/lowellCommFund.gif" style="max-width:187px;" alt="Lowell Community Fund" /></a>
 <br/>
-<a href="http://www.wbtooling.com/"><img src="/common/whitesbridge.jpg" style="max-width:187px;" alt="White\'s Bridge Tooling" /></a>
+<a href="http://www.wbtooling.com/"><img src="/common/whitesbridge.jpg" target="_blank" style="max-width:187px;" alt="White\'s Bridge Tooling" /></a>
 <br/>
-<a href="http://www.lowellschools.com/"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:200px;" alt="Lowell Area Schools" /></a>
+<a href="http://www.lowellschools.com/" target="_blank"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:200px;" alt="Lowell Area Schools" /></a>
 <br/>
-<a href="http://www.acehardware.com/home/index.jsp"><img src="/pages/about/sponsors/img/Ace-_Hardware_logo.jpg" style="max-width:187px;" alt="Ace Hardware" /></a>
+<a href="http://www.acehardware.com/home/index.jsp" target="_blank"><img src="/pages/about/sponsors/img/Ace-_Hardware_logo.jpg" style="max-width:187px;" alt="Ace Hardware" /></a>
 <br/>
-<a href="http://enwork.com/"><img src="/pages/about/sponsors/img/enwork-logo.jpg" style="max-width:187px;" alt="Enwork" /></a>
+<a href="http://enwork.com/" target="_blank"><img src="/pages/about/sponsors/img/enwork-logo.jpg" style="max-width:187px;" alt="Enwork" /></a>
 <br/>
-<a href="http://metricmfg.com/"><img src="/pages/about/sponsors/img/metric logo.jpg" style="max-width:187px;" alt="Metric Manufacturing" /></a>
+<a href="http://metricmfg.com/" target="_blank"><img src="/pages/about/sponsors/img/metric logo.jpg" style="max-width:187px;" alt="Metric Manufacturing" /></a>
 <br/>
-<a href="http://www.solidworks.com/"><img src="/pages/about/sponsors/img/newredtranslogo.png" style="max-width:187px;" alt="Solidworks" /></a>
+<a href="http://www.solidworks.com/" target="_blank"><img src="/pages/about/sponsors/img/newredtranslogo.png" style="max-width:187px;" alt="Solidworks" /></a>
 
 </div>
 <br/>
