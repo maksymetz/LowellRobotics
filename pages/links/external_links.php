@@ -9,20 +9,20 @@ require_once('/bin/head.php');
 <table>
   <tr>
     <td class="xlink">
-      <a href="http://www.usfirst.org"><img src="/common/ql_firstlogo.png" alt="FIRST" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
-      <a href="http://www.usfirst.org">www.USFIRST.org</a>
+      <a href="http://www.usfirst.org" target="_blank"><img src="/common/ql_firstlogo.png" alt="FIRST" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
+      <a href="http://www.usfirst.org" target="_blank">www.USFIRST.org</a>
     </td>
     <td class="xlink">
-      <a href="http://www.firstinmichigan.us"><img src="/common/ql_firstinmichigan.png" alt="First in Michigan" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
-      <a href="http://www.firstinmichigan.us">www.firstinmichigan.us</a>
+      <a href="http://www.firstinmichigan.us" target="_blank"><img src="/common/ql_firstinmichigan.png" alt="First in Michigan" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
+      <a href="http://www.firstinmichigan.us" target="_blank">www.firstinmichigan.us</a>
     </td>
     <td class="xlink">
-      <a href="http://www.thebluealliance.com"><img src="/common/ql_bluealliance.png" alt="The Blue Alliance" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
-      <a href="http://www.thebluealliance.com">www.thebluealliance.com</a>
+      <a href="http://www.thebluealliance.com" target="_blank"><img src="/common/ql_bluealliance.png" alt="The Blue Alliance" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
+      <a href="http://www.thebluealliance.com" target="_blank">www.thebluealliance.com</a>
     </td>
     <td class="xlink">
-      <a href="http://www.chiefdelphi.com"><img src="/common/ql_chiefdelphi.png" alt="Chief Delphi" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
-      <a href="http://www.chiefdelphi.com">www.chiefdelphi.com</a>
+      <a href="http://www.chiefdelphi.com" target="_blank"><img src="/common/ql_chiefdelphi.png" alt="Chief Delphi" style="height:140px;width:140px;border:#990000 2px solid;" /></a>
+      <a href="http://www.chiefdelphi.com" target="_blank">www.chiefdelphi.com</a>
     </td>
   </tr>
 </table>
