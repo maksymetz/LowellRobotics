@@ -110,8 +110,8 @@ echo('
 	<td style="border-right:#000000 1px solid;">
 		<a href="/pages/first" onmouseover="mopen(\'m4\')" onmouseout="mclosetime()">About FIRST</a>
 			<div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
-				<a href="http://www.usfirst.org/">FIRST</a>
-				<a href="http://www.firstinmichigan.org/">FIRST in Michigan</a>
+				<a href="http://www.usfirst.org/" target="_blank">FIRST</a>
+				<a href="http://www.firstinmichigan.org/" target="_blank">FIRST in Michigan</a>
 			</div>
 		</td>
     <td style="border-right:#000000 1px solid;">
