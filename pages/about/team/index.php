@@ -22,7 +22,7 @@ require_once('/bin/head.php');
 <p>A celebration in Alto, a village south of Lowell, that we have taken part in. When we did, we helped with the Library's book sale and had a demonstration of the robot.</p>
 <h2 class="spon">Freshman Orientation</h2>
 <p>Incoming freshman and their parents come to the high school to learn about the various activities they can take part in.</p>
-<h2 class="spon">Hunt for a Cure</h2>
+<h2 class="spon"><a href="http://www.huntforacure.com/" target="_blank">Hunt for a Cure</a></h2>
 <p>An organization that helps fund research for cystic fibrosis cures.</p>
 <h2 class="spon">Lowell Expo</h2>
 <p>All Lowell businesses come and meet the community. We had the opportunity to have a booth last year.  
