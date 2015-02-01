@@ -20,7 +20,7 @@ echo ('
 <br/>
 <a href="http://www.lowellschools.com/" target="_blank"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:200px;" alt="Lowell Area Schools" /></a>
 <br/>
-<a href="http://www.acehardware.com/home/index.jsp" target="_blank"><img src="/pages/about/sponsors/img/Ace-_Hardware_logo.jpg" style="max-width:187px;" alt="Ace Hardware" /></a>
+<a href="http://www.acehardware.com/" target="_blank"><img src="/pages/about/sponsors/img/Ace-_Hardware_logo.jpg" style="max-width:187px;" alt="Ace Hardware" /></a>
 <br/>
 <a href="http://enwork.com/" target="_blank"><img src="/pages/about/sponsors/img/enwork-logo.jpg" style="max-width:187px;" alt="Enwork" /></a>
 <br/>
