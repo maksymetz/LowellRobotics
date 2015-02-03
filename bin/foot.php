@@ -114,13 +114,7 @@ else
 echo('
 
 <div style="margin-left:auto;">
-<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="28" width="70" /></a>
-<img style="border:0;width:70px;height:28px" src="/common/css.png" alt="Valid CSS" />
-</div>
-<hr />
-
-<div style="margin-left:auto;">
-<a href="#"><img src="/common/FRC-ExcelAward-2012.gif" alt="2012 Website Excelence"/></a>
+<img src="/common/FRC-ExcelAward-2012.gif" alt="2012 Website Excelence"/></a>
 </div>
 <hr />
 
