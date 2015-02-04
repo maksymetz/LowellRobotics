@@ -16,7 +16,7 @@ echo ('
 <br/>
 <a href="http://www.grfoundation.org/lowell" target="_blank"><img src="/img/sponsors/lowellCommFund.gif" style="max-width:187px;" alt="Lowell Community Fund" /></a>
 <br/>
-<a href="http://www.wbtooling.com/"><img src="/common/whitesbridge.jpg" target="_blank" style="max-width:187px;" alt="White\'s Bridge Tooling" /></a>
+<a href="http://www.wbtooling.com/" target="_blank" ><img src="/common/whitesbridge.jpg"  style="max-width:187px;" alt="White\'s Bridge Tooling" /></a>
 <br/>
 <a href="http://www.lowellschools.com/" target="_blank"><img src="/pages/about/sponsors/img/LOWELL-SCHOOLS-LOGO.jpeg" style="max-width:200px;" alt="Lowell Area Schools" /></a>
 <br/>
