@@ -131,7 +131,7 @@ echo('
 	
   
     <td>
-      <a href="/pages/links/external_links.php" onmouseover="mopen(\'m7\')" onmouseout="mclosetime()">External Links</a>
+      <a href="/pages/about/Cysticfibrosis" onmouseover="mopen(\'m7\')" onmouseout="mclosetime()">Cystic Fibrosis</a>
       <div id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" style="height:0px;"></div>
     </td>
   </tr>
