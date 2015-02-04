@@ -36,11 +36,6 @@ after two losses. We learned a great deal from this competition and will strive 
 <h2>Team Update:  Final Touches</h2>
 </div>
 
-<object type="application/x-shockwave-flash" style="width:320px; height:195px;" data="http://www.youtube.com/v/f8LRrPddPGM?version=3">
-<param name="movie" value="http://www.youtube.com/v/f8LRrPddPGM?version=3" />
-<param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" />
-</object>
 
 <span style="font-weight:bold;">Feb. 12 2011</span>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The finishing touches are usually some of the hardest. The gripper is now functioning. Encoders and limit switches have been placed on almost every 
