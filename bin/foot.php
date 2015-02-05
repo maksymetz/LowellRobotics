@@ -150,7 +150,12 @@ echo('
 <a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a>
 <br>
 Copyright &#169; '.date("Y").' Lowell FIRST Robotics Team 3234</span>
+<br>
+<?php
 
+include("/counter.php");
+
+?>
 </div>
 
 
