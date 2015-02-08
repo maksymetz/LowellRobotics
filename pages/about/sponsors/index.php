@@ -14,6 +14,7 @@ require_once('/bin/head.php');
 
 <p>Thanks to Lowell Schools for giving us a work area to build our robot!</p>
 <br>
+<br>
 <h3 class "spon">White's Bridge Tooling <a id="float" href="http://www.wbtooling.com/"><img src="img/whitesbridge.jpg" target="_blank" style="max-width:187px;" alt="White\'s Bridge Tooling" /></a></h3>
 
 <p>For over 25 years, White's Bridge Tooling, Inc., based in Lowell, MI, has turned unique manufacturing problems into custom solutions.</p>
@@ -30,9 +31,11 @@ require_once('/bin/head.php');
 
 <p>This hardware store donates tools and offers us discounts.</p>
 <br>
+<br>
 <h3 class "spon">Metric Manufacturing <a id="float" href="http://metricmfg.com/" target="_blank"><img src="img/metric logo.jpg" style="max-width:187px;" alt="Metric Manufacturing" /></a></h3>
 
 <p>They do CAD design and manufacturing.</p>
+<br>
 <br>
 <h3 class "spon">Solidworks <a id="float" href="http://www.solidworks.com/" target="_blank"><img src="img/newredtranslogo.png" style="max-width:187px;" alt="Solidworks" /></a></h3>
 
@@ -41,6 +44,7 @@ require_once('/bin/head.php');
 <h3 class "spon">Orchard Hills Golf Course <a id="float" href="http://www.orchardhillsgc.com/" target="_blank"><img src="img/orchard hills golf course.jpg" style="max-width:187px;" alt="Enwork" /></a></h3>
 
 <p>Shelbyville, MI.</p>
+<br>
 <br>
 <h3 class "spon">Trombly Chiropractic <a id="float" href="http://tromblychiropractic.com/" target="_blank"><img src="img/Trombly Chiropractic.jpg" style="max-width:325px;" alt="Trombly Chiropractic" /></a></h3>
 
