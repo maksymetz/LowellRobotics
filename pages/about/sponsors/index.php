@@ -41,7 +41,7 @@ require_once('/bin/head.php');
 
 <p>Solidworks Corp. offers complete 3D software tools that let you create, simulate, publish, and manage your data.</p>
 <br>
-<h3 class "spon">Orchard Hills Golf Course <a id="float" href="http://www.orchardhillsgc.com/" target="_blank"><img src="img/orchard hills golf course.jpg" style="max-width:187px;" alt="Enwork" /></a></h3>
+<h3 class "spon">Orchard Hills Golf Course <a id="float" href="http://www.orchardhillsgc.com/" target="_blank"><img src="img/orchardhillsgolfcourse.jpg" style="max-width:187px;" alt="Enwork" /></a></h3>
 
 <p>Shelbyville, MI.</p>
 <br>
