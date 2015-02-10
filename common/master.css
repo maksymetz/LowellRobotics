@@ -121,6 +121,7 @@ h3.spon {
 	color:#252525;
 	background:none;
 }
+
 h2.spon {
 	color:#000;
 	font-size: 20pt;
@@ -367,6 +368,11 @@ background-color:#990000;
 #float
 {
 	float:right;
+}
+#textpadding
+{
+ padding-top:25px;
+ padding-bottom:25px;
 }
 
 
