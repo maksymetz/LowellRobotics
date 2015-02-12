@@ -84,11 +84,12 @@ echo('
 <div id="center"><!-- This division centers the page in accordance with valid XHTML -->
 <!-- The BODY of the page design is comprised of 4 divisions, each labeled HEADER, NAVBAR, PAGE, and FOOTER, respectively -->
 <!-- ***** HEADER ***** -->
-<div id="header"><table>
+<div id="header">
+<table width="100%">
   <tr>
-    <td style="text-align:left;"><img src="/common/banner.png" style="height:180px; width:700px;" alt="Lowell Robotics" /></td>
-	<td style="min-width:80px;">&nbsp;&nbsp;</td>
-    <td style="text-align:right;"><a href="http://www.usfirst.org/" target="_blank" class="FIRSTLOGO"><img src="/common/FIRST.png" style="width:165px;height:170px;" alt="FIRST Logo" /></a></td>
+	<td width="170">&nbsp;</td>
+    <td td align="left"><img src="/common/lowellroboticslogo.png" style="height:180px;" alt="Lowell Robotics" /></td>
+	<td align="center" valign="middle" width="170"><a href="http://www.usfirst.org/" target="_blank" class="FIRSTLOGO"><img src="/common/first-vertical-reverse.png" style="width:165px;height:170px;" alt="FIRST Logo"/></a></td>
   </tr>
 </table>
 </div><!-- ***** NAVBAR ***** --><div id="navbar">
