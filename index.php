@@ -18,8 +18,9 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 </div>
 
 <p>Check out our new:
+<li><a href="/pages/about/ArrowBots/">Arrow Bots</a></li>
 <li><a href="https://www.youtube.com/channel/UCA9qOPuNsPEPL-eVTb93nig" target="_blank">Youtube Channel</a></li>
-<li><a href="http://lowellrobotics.org/pages/photogallery/" target="_blank">Photo Gallery</a></li>
+<li><a href="/pages/photogallery/">Photo Gallery</a></li>
 <li><a href="http://lowellrobotics2015.blogspot.com/" target="_blank">Blog</a></li></p>
 
 <div class="titlebanner">
