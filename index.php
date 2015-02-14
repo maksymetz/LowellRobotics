@@ -27,7 +27,7 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 <h2 id="newstitle">Contact Us</h2>
 </div>
 
-Lowell Red Arrow Robotics c/o Cindy Brenk, Finance Manager
+Lowell Red Arrow Robotics
 <br>300 High Street
 <br>Lowell, MI 49331</br>
 <a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a>
