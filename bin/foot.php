@@ -151,6 +151,16 @@ echo('
 <br>
 Copyright &#169; '.date("Y").' Lowell FIRST Robotics Team 3234</span>
 <br>
+<<<<<<< HEAD
+<?php
+
+include('/counter.php');
+
+?>
+<?php include "count.php"; ?>
+
+=======
+>>>>>>> origin/master
 </div>
 
 
