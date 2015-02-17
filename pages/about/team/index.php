@@ -26,6 +26,9 @@ require_once('/bin/head.php');
 
 <h2 class="spon">Freshman Orientation</h2>
 <p>Incoming freshman and their parents come to the high school to learn about the various activities they can take part in.</p>
+<p align="center">Mrs. Pallo Driving the robot<br>
+<img src="img/MrsPallo.jpg"/>
+</p>
 <h2 class="spon"><a href="http://www.huntforacure.com/" target="_blank">Hunt for a Cure</a></h2>
 <p>An organization that helps fund research for cystic fibrosis cures.</p>
 <h2 class="spon">Lowell Expo</h2>
