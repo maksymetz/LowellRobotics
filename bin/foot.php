@@ -156,6 +156,8 @@ Copyright &#169; '.date("Y").' Lowell FIRST Robotics Team 3234</span>
 include('/counter.php');
 
 ?>
+<?php include "count.php"; ?>
+
 </div>
 
 
