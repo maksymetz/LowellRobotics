@@ -358,3 +358,19 @@ background-color:#000000;
 #code p {
 	font-size:1.0em;
 }
+#centertext
+{
+	text-align:center;
+}
+
+#float
+{
+	float:right;
+	position:relative;
+	bottom:25px;
+}
+#textpadding
+{
+ padding-top:30px;
+ padding-bottom:30px;
+}
