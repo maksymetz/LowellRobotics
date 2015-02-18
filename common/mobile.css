@@ -26,7 +26,7 @@ body {
 /* PAGE DIVISIONS **/
 
 #header {
-  background:#990000;
+  background:#000000;
   height:180px;
   width:985px;
   border-top:#b00000 3px solid;
@@ -61,7 +61,7 @@ body {
 }
 
 #footer {
-  background:#990000;
+  background:#000000;
   width:985px;
   border-top:#000000 3px solid;
   border-bottom:#b00000 3px solid;
@@ -127,7 +127,7 @@ h2.spon {
 }
 
 a:link {
-  color:#990000;
+  color:#000000;
   text-decoration:none;
   background-color:#e9e9e9;
 }
@@ -176,7 +176,7 @@ span {
 }
 
 a.FIRSTLOGO {
-	background:#990000;
+	background:#000000;
 }
 
 .newspic {
@@ -310,7 +310,7 @@ margin:0px;
 padding:0px;
 text-decoration:none;
 text-align:center;
-background-color:#990000;
+background-color:#000000;
 }
 
 #footer hr {
@@ -319,7 +319,7 @@ background-color:#990000;
 
 #footer a {
   color:#ffffff;
-  background-color:#990000;
+  background-color:#000000;
 }
 
 .eventa {
@@ -341,7 +341,7 @@ background-color:#990000;
 }
 
 .quickLinks {
-	border:#990000 2px;
+	border:#000000 2px;
 }
 
 .xlink {
