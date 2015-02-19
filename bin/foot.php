@@ -149,21 +149,16 @@ echo('
 <span style="font-family:arial;font-size:12px;color:#d0d0d0;text-align:center;">This website is entirely student designed and maintained. <br />
 <a href="mailto:contact@lowellrobotics.org">Email us at contact@lowellrobotics.org</a>
 <br>
-Copyright &#169; '.date("Y").' Lowell FIRST Robotics Team 3234</span>
+Copyright &#169; '.date("Y").' Lowell FIRST Robotics Team 3234
 <br>
 ');
 
-<?php include "count.php"; ?>
-<?php include('/counter.php'); ?>
+
+include '/count.php';
 
 echo('
+</span>
 </div>
-
-
-
-
-
-
 </div>
 </body>
 </html>

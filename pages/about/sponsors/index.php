@@ -54,12 +54,12 @@ require_once('/bin/head.php');
 
 <p>Lowell, MI</p>
 <br>
-<h3 class "spon"><p id="textpadding">Graphic Mounting & Laminating<a id="float" href="http://www.graphicmountinglaminating.com/" target="_blank"><img src="img/graphicmounting.png" style="max-width:325px;" alt="Graphic Mounting & Laminating" /></a></p></h3>
+<h3 class "spon"><p id="textpadding">Graphic Mounting & Laminating<a id="float" href="http://www.graphicmountinglaminating.com/" target="_blank"><img src="img/graphicmounting.PNG" style="max-width:325px;" alt="Graphic Mounting & Laminating" /></a></p></h3>
 
 <p>Grand Rapids, MI</p>
 <br>
 <h3 class "spon">Individual Doners</h3>
-Deb Ellinger
+Deb Ellinger<br>
 Heidi Nagel
 <br>
 
