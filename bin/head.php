@@ -12,6 +12,8 @@ $user->setup();
 
 require_once("/bin/mobile.php");
 
+include_once("analyticstracking.php")
+
 global $css, $js, $onload, $title; // get page defined variables
 
 if(!isset($title))
