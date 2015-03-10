@@ -33,15 +33,14 @@ Lowell Red Arrow Robotics
 <a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a>
 
 <div class="titlebanner">
-<h2 id="newstitle">First Competition at Kentwood</h2>
+<h2 id="newstitle">Second Competition at Grand Valley State University</h2>
 </div>
-
-<p>We are currently preparing for our first event at East Kentwood High School on March 6th and 7th. 
+<p>We are learning from our mistakes, improving on our strengths and looking forward to our next event at GVSU, March 20th and 21st. 
 <br>The address is: </br>
-<br>East Kentwood High School 
-<br>6230 Kalamazoo
-<br>Kentwood, MI  49508.</br>
-<br>The schedule is found <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_MIKEN_Agenda.pdf" target="_blank">[here]</a>.  We hope to see you there!</br></p>
+<br>Grand Valley State University
+<br>Field House
+<br>Allendale, MI 49401.</br>
+<br>More information <a href="http://www.firstinmichigan.org/FRC_2015/WestMichigan_FRC/westmichigan_frc.html" target="_blank">[here]</a>.  We hope to see you there!</br></p>
 
 
 <div class="titlebanner">
