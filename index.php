@@ -32,15 +32,12 @@ Lowell Red Arrow Robotics
 <br>Lowell, MI 49331</br>
 <a href="mailto:contact@lowellrobotics.org">Email us: contact@lowellrobotics.org</a>
 
+<!--
 <div class="titlebanner">
-<h2 id="newstitle">Second Competition at Grand Valley State University</h2>
-</div>
-<p>We are learning from our mistakes, improving on our strengths and looking forward to our next event at GVSU, March 20th and 21st. 
-<br>The address is: </br>
-<br>Grand Valley State University
-<br>Field House
-<br>Allendale, MI 49401.</br>
-<br>More information <a href="http://www.firstinmichigan.org/FRC_2015/WestMichigan_FRC/westmichigan_frc.html" target="_blank">[here]</a>.  We hope to see you there!</br></p>
+<h2 id="newstitle">Banner Name</h2>
+</div> 
+-->
+
 
 
 <div class="titlebanner">
