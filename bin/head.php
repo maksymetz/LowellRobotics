@@ -111,7 +111,8 @@ echo('
         <a href="/pages/about/team">Our Team</a>
         <a href="/pages/about/sponsors">Our Sponsors</a>
         <a href="/pages/about/robot">Our Robots</a>
-		<a href="/pages/about/ArrowBots">Arrow Bots</a>
+	<a href="/pages/about/ArrowBots">Arrow Bots</a>
+	<a href="/pages/about/Downloads">Downloads</a>
       </div>
     </td>
 	<td style="border-right:#000000 1px solid;">
