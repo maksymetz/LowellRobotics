@@ -51,12 +51,17 @@ require_once('/bin/head.php');
 <p>Lowell, MI</p>
 <br>
 <h3 class "spon"><p id="textpadding">Family Dentistry of Lowell <a id="float" href="http://www.familydentistryoflowell.com/" target="_blank"><img src="img/LFDlogo_address.gif" style="max-width:325px;" alt="Family Dentistry of Lowell" /></a></p></h3>
-
 <p>Lowell, MI</p>
 <br>
 <h3 class "spon"><p id="textpadding">Graphic Mounting & Laminating<a id="float" href="http://www.graphicmountinglaminating.com/" target="_blank"><img src="img/graphicmounting.PNG" style="max-width:325px;" alt="Graphic Mounting & Laminating" /></a></p></h3>
 
 <p>Grand Rapids, MI</p>
+<h3 class "spon"><p id="textpadding">State Farm Agent Deborah A Wilks<a id="float" href="http://deborahwilks.com//" target="_blank"><img src="img/state-farm.jpg" style="max-width:325px;" alt="State Farm Agent Deborah A Wilks" /></a></p></h3>
+<p>State Farm Agent Deborah A Wilks in Lowell, MI - We offer Auto, Home, Life, and Renters insurance.  Call us at (616) 897-9237 to learn more.
+<br>11827 Fulton St E
+<br>Lowell, MI 49331
+</p>
+<br>
 <br>
 <h3 class "spon">Individual Doners</h3>
 Deb Ellinger<br>
