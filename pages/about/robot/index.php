@@ -6,6 +6,17 @@ require_once('/bin/head.php');
 <!-- **** MAIN AREA **** -->
 <h1>Our Robots</h1>
 <br/>
+
+<div class="titlebanner">
+<h2 id="newsitem">2015 Robot</h2>
+</div>
+<ul>
+<img src="img/2015Robot.JPG" class="newspic" style="max-width:150px;" alt="Page Under Construction!" />
+<li>The game was Recycle Rush. The robot was made to lift and stack totes, along with the recycling bin to crown the stack of 6. In autonomous (when the robot ran itself according to a program we created) the robot was able to get all three yellow totes (autonomous is only 15 seconds), and then in tele-op (where our drive team controls the robot's actions) we could follow it up with placing three of the needed four yellow totes on the middle ‘step’. After that we could put up two stacks of six totes, complete with the recycling bin and pool noodle.</li>
+<br>
+<br>
+</ul>
+
 <div class="titlebanner">
 <h2 id="newsitem">2014 Robot</h2>
 </div>
