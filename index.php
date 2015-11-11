@@ -23,10 +23,13 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 <li><a href="/pages/photogallery/">Photo Gallery</a></li>
 <li><a href="http://lowellrobotics2015.blogspot.com/" target="_blank">Blog</a></li></p>
 
+
+<img src="/common/LionsGiftnoneredSmall.jpg" alt="Team" class="indexpic" />
 <div class="titlebanner">
 <h2 id="newstitle">Thank you Alto Lions for your generous gift</h2>
 </div>
-<img src="/common/LionsGiftnoneredSmall.jpg" alt="Team" class="indexpic" />
+
+
 
 <div class="titlebanner">
 <h2 id="newstitle">Contact Us</h2>
