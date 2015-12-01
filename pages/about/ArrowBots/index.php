@@ -16,6 +16,7 @@ In 2013, Bess Hudson noticed that although there was a well-known FIRST Robotics
 <p align="left">
 All of the members of the team learned about the NXT Mindstorms LEGO robot, presenting and researching information, and teamwork skills. The team was incredibly enthusiastic about competition, and all of the members had an amazing experience. In the end, the Alto Arrow Bots won the Presentation Award for their creative skit which was a personification of computer dangers, like viruses. The mentor, Anderson Hudson, also won the Outstanding Young Mentor Award in representation of the Lowell Red Arrow &nbsp;Robotics team. The Alto Arrow Bots could never have gotten as far as they have without their sponsors: the Alto Branch of Kent District Library, Alto Lions Club, Cutting Edge Controls, and of course FRC Team 3234, Lowell Red Arrow Robotics.</p>
 
+<p align="center"><a href="mailto:arrowbots@lowellrobotics.org">Email us at arrowbots@lowellrobotics.org</a></p>
 
 <?php
 require_once('/bin/foot.php');
