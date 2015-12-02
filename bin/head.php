@@ -95,7 +95,7 @@ echo('
   <tr>
 	<td width="170">&nbsp;</td>
     <td td align="left"><img src="/common/lowellroboticslogo.png" style="height:180px;" alt="Lowell Robotics" /></td>
-	<td align="center" valign="middle" width="170"><a href="http://www.usfirst.org/" target="_blank" class="FIRSTLOGO"><img src="/common/first-vertical-reverse.png" style="width:165px;height:170px;" alt="FIRST Logo"/></a></td>
+	<td align="center" valign="middle" width="170"><a href="http://www.firstinspires.org/" target="_blank" class="FIRSTLOGO"><img src="/common/first-vertical-reverse.png" style="width:165px;height:170px;" alt="FIRST Logo"/></a></td>
   </tr>
 </table>
 </div><!-- ***** NAVBAR ***** --><div id="navbar">
@@ -118,7 +118,7 @@ echo('
 	<td style="border-right:#000000 1px solid;">
 		<a href="/pages/first" onmouseover="mopen(\'m4\')" onmouseout="mclosetime()">About FIRST</a>
 			<div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
-				<a href="http://www.usfirst.org/" target="_blank">FIRST</a>
+				<a href="http://www.firstinspires.org/" target="_blank">FIRST</a>
 				<a href="http://www.firstinmichigan.org/" target="_blank">FIRST in Michigan</a>
 			</div>
 		</td>

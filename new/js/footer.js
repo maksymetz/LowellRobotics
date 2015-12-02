@@ -7,7 +7,7 @@ document.write("<a href=\"http://www.lowellrobotics.org/contact_us.html\">Contac
 document.write(" | ");
 document.write("<a href=\"http://www.lowellrobotics.org/webmasters.html\">Webmasters</a>");
 document.write(" | ");
-document.write("<a href=\"http://www.usfirst.org/\">FIRST</a>");
+document.write("<a href=\"http://www.firstinspires.org/\">FIRST</a>");
 document.write(" | ");
 document.write("<a href=\"http://www.firstinmichigan.org/\">FIRST In Michigan</a>");
 document.write(" | ");

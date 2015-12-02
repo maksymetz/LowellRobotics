@@ -18,7 +18,7 @@ reminds them by Gracious Professionalism to treat one another with respect and g
 be realized.  Coopertition involves learning from everybody, and paying back what you've learned to everybody.  It involves helping and cooperating with other teams even
 as you compete against them.</p>
 <br/>
-<a href="http://www.usfirst.org/">Visit the FIRST Website to learn more.</a>
+<a href="http://www.firstinspires.org/">Visit the FIRST Website to learn more.</a>
 <br />
 <h3>What is FRC?</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The FIRST Robotics Competition (FRC) is a program of FIRST encompassing over 2,200 teams which embody more than 55,000 high-school students.  The annual game challenge

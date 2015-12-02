@@ -4,7 +4,7 @@
 document.write("<center>");
 document.write("<a href='index.html'>Home</a>");
 document.write("<br>");
-document.write("<a href='http://www.usfirst.org/'>FIRST Website</a>");
+document.write("<a href='http://www.firstinspires.org/'>FIRST Website</a>");
 document.write("<br>");
 document.write("<a href='sponsors.html'>Sponsors Information</a>");
 document.write("<br>");

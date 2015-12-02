@@ -132,7 +132,7 @@ echo('
       <a href="/pages/about/team/">About Us</a>
     </td>
     <td style="border-right:#ffffff 1px solid;text-align:center;">
-      <a href="http://www.usfirst.org/">FIRST</a>
+      <a href="http://www.firstinspires.org/">FIRST</a>
     </td>
     <td style="border-right:#ffffff 1px solid;text-align:center;">
       <a href="/pages/news/2014/">Team News</a>

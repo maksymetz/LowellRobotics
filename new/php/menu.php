@@ -1,7 +1,7 @@
 <center>
 <a href='index.html'>Home</a>
 <br>
-<a href='http://www.usfirst.org/'>FIRST Website</a>
+<a href='http://www.firstinspires.org/'>FIRST Website</a>
 <br>
 <a href='sponsors.html'>Sponsors Information</a>
 <br>

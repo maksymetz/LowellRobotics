@@ -54,8 +54,8 @@ Lowell Red Arrow Robotics
 <table>
   <tr>
     <td class="xlink">
-      <a href="http://www.usfirst.org" target="_blank"><img src="/bin/pic.php?src=/common/ql_firstlogo.png&amp;width=140&amp;height=140" alt="FIRST" class="quickLinks"/></a><br/>
-      <a href="http://www.usfirst.org" target="_blank">FIRST</a>
+      <a href="http://www.firstinspires.org" target="_blank"><img src="/bin/pic.php?src=/common/ql_firstlogo.png&amp;width=140&amp;height=140" alt="FIRST" class="quickLinks"/></a><br/>
+      <a href="http://www.firstinspires.org" target="_blank">FIRST</a>
     </td>
     <td class="xlink">
       <a href="http://www.firstinmichigan.us" target="_blank"><img src="/bin/pic.php?src=/common/ql_firstinmichigan.png&amp;width=140&amp;height=140" alt="First in Michigan" class="quickLinks"/></a><br/>
