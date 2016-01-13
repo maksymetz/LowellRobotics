@@ -18,10 +18,11 @@ You’ve found your way to the website of FIRST Robotics Team #3234, otherwise k
 </div>
 
 <p>Check out our new:
+<li><a href="https://www.facebook.com/lowellrobotics/" target="_blank">Like us on Facebook</a></li>
 <li><a href="/pages/about/ArrowBots/">Arrow Bots</a></li>
 <li><a href="https://www.youtube.com/channel/UCA9qOPuNsPEPL-eVTb93nig" target="_blank">Youtube Channel</a></li>
 <li><a href="/pages/photogallery/">Photo Gallery</a></li>
-<li><a href="http://lowellrobotics2015.blogspot.com/" target="_blank">Blog</a></li></p>
+<li><a href="http://lowellrobotics2016.blogspot.com/" target="_blank">2016 Blog</a></li></p>
 
 
 <img src="/common/LionsGiftnoneredSmall.jpg" alt="Team" class="indexpic" />
