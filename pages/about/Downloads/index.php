@@ -6,7 +6,7 @@ require_once('/bin/head.php');
 <!-- **** MAIN AREA **** -->
 <h1>Team 3234 Downloads</h1>
 <p>Downloads for team members, parents and fans.</p>
-
+<p><a href="Files\FRC3234Brochure.pdf">Team Brochure</a></p>
 <div class="titlebanner"><h2>2016 Season</h2></div>
 <p><a href="Files\frc-2016-gamemanual.pdf">2016 Game Manual</a></p>
 <p><a href="http://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/competition-manual/2016/FRC-2016-admin-manual.pdf">2016 Admin Manual</a></p>

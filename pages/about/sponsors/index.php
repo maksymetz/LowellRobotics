@@ -62,6 +62,11 @@ require_once('/bin/head.php');
 <br>Lowell, MI 49331
 </p>
 <br>
+<h3 class "spon"><p id="textpadding">Alto Michigan Lions Club<a id="float" href="http://www.e-clubhouse.org/sites/altomi/" target="_blank"><img src="img/AltoLions.jpg" style="max-width:325px;" alt="Alto Michigan Lions Club" /></a></p></h3>
+<p>If you would like more information about the Alto Lions Club, please contact us at:</p>
+<p>Alto Lions Club, Post Office Box 65, Alto, MI 49302</p>
+<br>
+
 <br>
 <h3 class "spon">Individual Doners</h3>
 Deb Ellinger<br>
