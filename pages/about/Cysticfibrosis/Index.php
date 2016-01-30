@@ -18,7 +18,7 @@ Now before you think "Oh their life must be horrible," remember to all negatives
 <br>I hope you understand CF is not the end of the world and it has benefits.
 </p>
 <br>
-<div id=centertext><p>Check to help fund Hunt for a Cure</p><img src="img/IMG_1429.JPG"/><div>
+<div id=centertext><p><a href="http://www.huntforacure.com/" target="_blank">Check to help fund Hunt for a Cure</a></p><img src="img/IMG_1429.JPG"/><div>
 
 
 
